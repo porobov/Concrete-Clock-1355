@@ -1,5 +1,5 @@
-# Concrete Clock 1355. Makers HUB.
-This repo has all information needed to start making and painting your own Concrete Clocks 1355. 
+# Concrete Clock 1355
+Start making and painting your own Concrete Clocks 1355. 
 
 ## Makers HUB:
 1.  [Prepare master model](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#prepare-master-model)
