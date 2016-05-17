@@ -7,11 +7,12 @@ Creator society vs consumer society.
 
 ## Table of contents:
 
-1.  Prepare master model;
-2.  Make mold casing;
-3.  Cast polyurethane mold into mold casing;
-4.  Cast concrete into polyurethane mold;
-5.  Assemble Concrete Clock 1355.
+1.  [Prepare master model](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#prepare-master-model);
+2.  [Make mold casing](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#make-mold-casing);
+3.  [Cast polyurethane mold into mold casing](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#cast-polyurethane-mold-into-mold-casing);
+4.  [Cast concrete into polyurethane mold](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#cast-concrete-into-polyurethane-mold);
+5.  [Assemble Concrete Clock 1355](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#Assemble-Concrete-Clock-1355).
+6.  [Contribution requests](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#Contribution-requests)
 
 ## Prepare master model
 
@@ -57,7 +58,7 @@ The goal is to make it leak-tight and strong enough to withstand water or polyur
 2.  Make a stand according to this scheme. I found a local CNC-service and made it out of 0,118" (3 mm) PVC foam. And I put plasteline inside to avoid any voids and make the stand rigid. You may try Ponoko.com service to do this.
 3.  Glue the parts together using the stand as a gauge.
 
-## Cast polyurethane mold
+## Cast polyurethane mold into mold casing
 
 ### Polyurethane mold materials:
 
@@ -77,14 +78,15 @@ The goal is to make it leak-tight and strong enough to withstand water or polyur
 ### Cast polyurethane mold
 Polyurethane mold consists of two parts: clock face side and mechanism side (we call it face and mech).
 
-**Face part**
+**Face part:**
 1. Fill mechanism residue with plasteline.
 2. Fix mold casing M side with silicone sealant or plastline, put clock stand and master-model inside, fix mold casing lid with silicone sealant or plastline, enforce with masking tape in perimeter. Let it dry if you are using silicone sealant.
 3. Put the whole setup in a bowl. Pour water in. Keep pouring until you see the surface tension effect. 
 4. Wait about 1 minute to see if any leakage appears. If it does fix it.
 5. If no leakage appears pour all water from mold casing into bowl to the last drop. Then into a plastic cup. Divide the water between two plastic cups in halves and mark the water lines with marker. Mark one cup "Part A Mech" and the other one "Part B Mech".
-6. Let mold casing dry (I give it 24 hours to make sure all water evaporates, as it affects polyurethane quality). 
-**Pouring polyurethane**
+6. Let mold casing dry (I give it 24 hours to make sure all water evaporates, as it affects polyurethane quality).
+ 
+**Pouring polyurethane:**
 7. Put on a horizontal surface! 
 8. Apply Universal Mold Release spray according to Smooth-on manual.
 9. Pour A and B parts to the corresponding cup. Mix part A and part B according to smooth-on instructions (follow safety instructions as well!). Make it 2..3 mm above the mark for each component (equally).
@@ -92,19 +94,21 @@ Polyurethane mold consists of two parts: clock face side and mechanism side (we 
 11. As soon as you have about 3 mm remaining to the top of the mold casing put the mold casing F side on top and proceed pouring polyurethane into one of the holes. If you done everything right, the mix will gradually appear in all holes (at this point polyurethane mix is less liquid - it is ok). Pour until you fill all the holes at least in half. Later those bumps on the polyurethane mold will serve for alignment.
 12. Put some weight on top of the form. 2-4 lbs (1-2 kg) will be just fine.
 13. Let it cure for at least 16 hours. 
-**Open the mold casing**
+
+**Open the mold casing:**
 14. Open the mold casing. Use utility knife as the polyurethane usually gets glued pretty strongly. You'll probably destroy the stand at this stage. It is all right - one day you'll make a better one. 
 15. Use scissors to cut the mold flash off.
 16. Pick the plasteline out the mechanism residue.
 17. Clean the mold casing of silicone sealant, plasteline and remains of polyurethane.
-**Mech part**
+
+**Mech part:**
 18. Assemble the mold casing with Face part and master-model inside. Fix mold casing F side with silicone sealant or plasteline. Fix mold casing lid with silicone sealant or plasteline, enforce with masking tape in perimeter. Let it dry if you are using silicone sealant.
 19. Pour polyurethane (repeat steps 3-17).
 20. Clean all parts of remains of Universal mold release with some clothes. Some laziness allowed as it will come off after 2-3 concrete castings. 
 21. Sign mech and face parts.
 22. Celebrate.
 
-## How to cast concrete
+## Cast concrete into polyurethane mold
 
 ### Materials
 
@@ -157,14 +161,13 @@ Clock mechanism, Clock hands, Round nut and the book board pad are available her
 5.  Celebrate. 
 
 
-### Contribution requests 
+## Contribution requests
 
-**Beta**
+**Spelling and grammar**
 Would appreciate spelling correction very much. 
 
-
-**Master-model strength and germecity**.
-Currently I use rice to strengthen the model and plastic to seal the bottom hole. It is enough for casting, but I would like to make it better. I tried to use melted plasteline, but it gives to much usadka. I suggest using some cement rastvor and fill the form with it. Try using very fluid rastvor and cover the insides with thin layer. Then let it dry and make another one. As soon as model gets enough rigidity pour. Polyurethane may be used the same way, but maybe there are any other quickly-drying materials to make this process faster? 
+**Master-model strength and leak-tightness**.
+Currently I use rice to strengthen the model and plastic to seal the bottom hole. It is enough for casting, but I would like to make it better. I tried to use melted plasteline, but it gives to much shrinkage. I suggest using some cement mix and fill the form with it. Try using very fluid mix and cover the insides with thin layer. Then let it dry and make another one. As soon as model gets enough rigidity pour the rest of the mix in. I guess polyurethane may be used the same way, but maybe there are any other quickly-drying materials to make this process faster? 
 
 **A stronger clock stand**. 
-Need a technology to make more durable stand. Need to preserve 1mm facet and clock form. 
+Need a technology to make a more durable stand (Make mold casing paragraph). The purpose of the stand is to preserve 1 mm facet and clock form.
