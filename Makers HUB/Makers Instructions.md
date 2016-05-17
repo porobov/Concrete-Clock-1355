@@ -2,11 +2,11 @@
 
 ## Table of contents:
 
-1.  [Prepare master model](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#prepare-master-model);
-2.  [Make mold casing](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#make-mold-casing);
-3.  [Cast polyurethane mold into mold casing](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#cast-polyurethane-mold-into-mold-casing);
-4.  [Cast concrete into polyurethane mold](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#cast-concrete-into-polyurethane-mold);
-5.  [Assemble Concrete Clock 1355](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#assemble-concrete-clock-1355).
+1.  [Prepare master model](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#prepare-master-model)
+2.  [Make mold casing](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#make-mold-casing)
+3.  [Cast polyurethane mold into mold casing](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#cast-polyurethane-mold-into-mold-casing)
+4.  [Cast concrete into polyurethane mold](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#cast-concrete-into-polyurethane-mold)
+5.  [Assemble Concrete Clock 1355](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#assemble-concrete-clock-1355)
 6.  [Contribution requests](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#contribution-requests)
 
 ## Prepare master model
