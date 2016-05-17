@@ -7,13 +7,13 @@ Creator society vs consumer society.
 
 ## Table of contents:
 
-1.  Make master model;
+1.  Prepare master model;
 2.  Make mold casing;
 3.  Cast polyurethane mold into mold casing;
 4.  Cast concrete into polyurethane mold;
 5.  Assemble Concrete Clock 1355.
 
-## Make master model
+## Prepare master model
 
 ### Materials:
 
@@ -25,7 +25,7 @@ Creator society vs consumer society.
 - Silicone sealant.
 - Personal protection (glasses, rubber gloves, long-sleeve shirt, respirator)
 
-### Make master model
+### Prepare master model
 
 The goal is to make it rigid enough to withstand the mass of polyurethane, smooth (non-porous) enough not to be adhered to polyurethane and leak-tight to avoid polyurethane penetration inside master model. 
 

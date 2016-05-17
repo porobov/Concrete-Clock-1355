@@ -5,6 +5,7 @@ This repo has all information needed to start making your own Concrete Clocks 13
 How to
 Legal information and disclaimer
 
+- [Concrete Clock licensing and disclaimer] (https://github.com/porobov/Concrete-Clock-1355/blob/master/Legal.md)
 
 ## Mass craft vs Mass production
 Only one model of Concrete clock, as local as possible and handmade forver - our principles of a new business model, where mass production is done by local makers. We welcome new makers all around the world to cast their own Concrete clock 1355 just for fun or for sale.
