@@ -2,6 +2,8 @@
 
 We want diversity to come into our project from the outside. This is one of the reasons we make only one model. We encourage people to paint Concrete Clock 1355 the way they like. We believe this is the way to deliver true art. Feel free to participate, paint your own clock and tell other people about it using our official hashtag #ConcreteClock1355.
 
+<img src="http://i.imgur.com/qbHn0DT.jpg" alt="Concrete Clock 1355 Artists HUB" />
+
 ### Inspiration
 There are many artists who have already participated in Concrete Clock 1355 project. Check out their works here. There are even more works which were sold in Russia and all over the world. Check this link... todo
 
