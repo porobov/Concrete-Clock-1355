@@ -11,7 +11,9 @@
 
 ## Prepare master model
 
+<a href="https://www.dropbox.com/sh/11quyruv6xzmt2j/AAB3DeCSagDpUCqWJzzR7_hTa?dl=0">
 <img src="http://i.imgur.com/muhD21p.png" />
+</a>
 [Prepare master model Images](https://www.dropbox.com/sh/11quyruv6xzmt2j/AAB3DeCSagDpUCqWJzzR7_hTa?dl=0)
 
 ### Materials:
