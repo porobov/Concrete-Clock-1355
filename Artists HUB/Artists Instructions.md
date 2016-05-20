@@ -19,3 +19,6 @@ As you read all this through here is a very special place for. Following this li
 ### Collaboration with artists
 Some pictures from fairies
 We made it locally and it worked and now we are making this project opensource to spread it globally. 
+
+---------------------
+[Buy Concrete Clock 1355](http://www.concreteclock1355.com/buy-concrete-clock-1355) | [Make Concrete Clock 1355](http://www.concreteclock1355.com/make-concrete-clock-1355) | [Paint Concrete Clock 1355](http://www.concreteclock1355.com/paint-concrete-clock-1355)
