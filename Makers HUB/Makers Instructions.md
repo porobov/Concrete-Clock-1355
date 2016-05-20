@@ -30,7 +30,7 @@
 
 The goal is to make it rigid enough to withstand the mass of polyurethane, smooth (non-porous) enough not to be adhered to polyurethane and leak-tight to avoid polyurethane penetration inside master model. 
 
-1.  3D-print Concrete Clock 1355 master model here (todo).
+1.  [Order Concrete Clock 1355 master model.](http://www.concreteclock1355.com/make-concrete-clock-1355)
 2.  Coat it with thin layer of primer.
 3.  Let it dry and make another thin layer. 
 4.  Using sand paper polish it in a water bath (underwater).
@@ -53,11 +53,11 @@ The goal is to make it rigid enough to withstand the mass of polyurethane, smoot
 - Personal protection (glasses, rubber gloves, long-sleeve shirt, respirator)
 - Wood glue
 
-### Make mold casing:
+### Make mold casing:to
 
 The goal is to make it leak-tight and strong enough to withstand water or polyurethane poured inside. Polyurethane mold consists of two parts: clock face side and mechanism side. In order to cast face part (which is cast first) you gonna need to lift the master model in mold casing to fill the space of the future mechanism side part (let's call it a stand). The M and F sides should close as precisely as possible to be able to prevent polyurethane leaking even with no sealing.
 
-1.  Cut plywood according to this scheme. You can do it either manually or using a CNC router. insert scheme - todo
+1.  Cut plywood according to the scheme [here](/Makers%20HUB/files). You can do it either manually or using a CNC router.
 2.  Make a stand according to this scheme. I found a local CNC-service and made it out of 0,118" (3 mm) PVC foam. And I put plasteline inside to avoid any voids and make the stand rigid. You may try Ponoko.com service to do this.
 3.  Glue the parts together using the stand as a gauge.
 
@@ -137,7 +137,7 @@ Polyurethane mold consists of two parts: clock face side and mechanism side (we 
 Shake well, follow proportions thoroughly.
 
 1.  Assemble the form with scotch as in the picture.
-2.  Make concrete mix. Mix 830 gr of water with 230 gr todo of concrete (cement powder) for each casting.
+2.  Make concrete mix. Mix 29,3 oz (830 gr) of water with 8,2 oz (233 gr) of concrete (cement powder) for each casting.
 3.  Pour concrete using the spoon into the mold and shake well after every 1/3 of the volume gets filled.
 4.  Keep pouring concrete until the level rises above the mold a little bit.
 5.  Use spatula to remove the excess of concrete.
@@ -154,12 +154,12 @@ Shake well, follow proportions thoroughly.
 
 ### Materials
 
-- Clock mechanism  - the drawing of the clock is here. todo
-- Clock hands – the drawing of the clocks you may find here. todo
-- Round nut – the drawing is here. todo
-- Book board pad (isn't necessary) – the drawing is here. todo
-- Round nut key (I use scissors the picture) 
-Clock mechanism, Clock hands, Round nut and the book board pad are available here todo in one package. 
+- Clock mechanism  - the drawing of the clock is [here](/Makers%20HUB/files).
+- Clock hands – the drawing of the clocks you may find [here](/Makers%20HUB/files).
+- Round nut – the drawing is [here](/Makers%20HUB/files)
+- Book board pad (isn't necessary) – the photo is [here](https://www.dropbox.com/sh/41bw1zoszr1uk5v/AAD7a0Znf_0_bXcT14A0-3mFa?dl=0)
+- Round nut key (I use scissors instead)
+Clock mechanism, Clock hands and Round nut are available [here](http://www.concreteclock1355.com/make-concrete-clock-1355). 
 
 ### Assembling Concrete Clock 1355
 
