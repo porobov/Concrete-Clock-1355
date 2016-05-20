@@ -12,9 +12,7 @@
 ## Prepare master model
 
 <a href="https://www.dropbox.com/sh/11quyruv6xzmt2j/AAB3DeCSagDpUCqWJzzR7_hTa?dl=0">
-<img src="http://i.imgur.com/muhD21p.png" />
-</a>
-[Prepare master model Images](https://www.dropbox.com/sh/11quyruv6xzmt2j/AAB3DeCSagDpUCqWJzzR7_hTa?dl=0)
+<img alt="Prepare master model" src="http://i.imgur.com/aX46tJa.png" /></a>
 
 ### Materials:
 
@@ -41,6 +39,9 @@ The goal is to make it rigid enough to withstand the mass of polyurethane, smoot
 
 ## Make mold casing
 
+<a href="https://www.dropbox.com/sh/gik4jokj4vv2u8s/AABO7yqLq1rfvVEWF-e8KmR3a?dl=0">
+<img alt="Make mold casing" src="http://i.imgur.com/pGpJQZm.png" /></a>
+
 ### Mold casing materials:
 
 - Marker. I prefer white paint marker.
@@ -59,6 +60,9 @@ The goal is to make it leak-tight and strong enough to withstand water or polyur
 3.  Glue the parts together using the stand as a gauge.
 
 ## Cast polyurethane mold into mold casing
+
+<a href="https://www.dropbox.com/sh/1g6jya262g96862/AAB0CFhpCJHdU3WO36zIALoGa?dl=0">
+<img alt="Cast polyurethane mold into mold casing" src="http://i.imgur.com/ZwdZfWi.png" /></a>
 
 ### Polyurethane mold materials:
 
@@ -124,6 +128,9 @@ Polyurethane mold consists of two parts: clock face side and mechanism side (we 
 - Scotch tape
 
 ### Pouring concrete
+
+<a href="https://www.dropbox.com/sh/41bw1zoszr1uk5v/AAD7a0Znf_0_bXcT14A0-3mFa?dl=0">
+<img alt="Pouring concrete and Assemble Concrete Clock 1355" src="http://i.imgur.com/muhD21p.png" /></a>
 
 Shake well, follow proportions thoroughly.
 
