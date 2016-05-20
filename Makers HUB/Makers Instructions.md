@@ -11,7 +11,7 @@
 
 ## Prepare master model
 
-<img src="http://imgur.com/muhD21p" />
+<img src="http://i.imgur.com/muhD21p.png" />
 [Prepare master model Images](https://www.dropbox.com/sh/11quyruv6xzmt2j/AAB3DeCSagDpUCqWJzzR7_hTa?dl=0)
 
 ### Materials:
