@@ -16,3 +16,7 @@ See how different artists painted Concrete Clock 1355 here [Artistic Concrete Cl
 
 ## Legal information
 [Concrete Clock 1355 licensing and disclaimer](http://www.concreteclock1355.com/Concrete-Clock-1355-license)
+
+
+---------------------
+[Buy Concrete Clock 1355](http://www.concreteclock1355.com/buy-concrete-clock-1355) | [Make Concrete Clock 1355](http://www.concreteclock1355.com/make-concrete-clock-1355) | [Paint Concrete Clock 1355](http://www.concreteclock1355.com/paint-concrete-clock-1355)
