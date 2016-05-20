@@ -1,5 +1,7 @@
 # Concrete Clock 1355. Makers HUB.
 
+<img alt="Concrete Clock 1355 Makers HUB" src="http://i.imgur.com/QtFQ6d6.jpg" />
+
 ## Table of contents:
 
 1.  [Prepare master model](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/Makers%20Instructions.md#prepare-master-model)
