@@ -180,3 +180,6 @@ Currently I use rice to strengthen the model and plastic to seal the bottom hole
 
 **A stronger clock stand**. 
 Need a technology to make a more durable stand (Make mold casing paragraph). The purpose of the stand is to preserve 1 mm facet and clock form.
+
+---------------------
+[Buy Concrete Clock 1355](http://www.concreteclock1355.com/buy-concrete-clock-1355) | [Make Concrete Clock 1355](http://www.concreteclock1355.com/make-concrete-clock-1355) | [Paint Concrete Clock 1355](http://www.concreteclock1355.com/paint-concrete-clock-1355)
