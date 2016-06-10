@@ -16,6 +16,7 @@
 ## Prepare master model
 
 [![Concrete Clock 1355 master model](http://i.imgur.com/8zCyLTY.jpg)](http://www.concreteclock1355.com/product/concrete-clock-1355-master-model)
+
 You can skip this step by ordering [well prepared Concrete Clock 1355 master model](http://www.concreteclock1355.com/product/concrete-clock-1355-master-model) at our website.
 
 <a href="https://goo.gl/Rn8zDl">
