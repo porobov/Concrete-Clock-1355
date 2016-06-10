@@ -28,9 +28,11 @@
 
 ### Prepare master model
 
+You can skip this step by ordering [well prepared Concrete Clock 1355 master model](http://www.concreteclock1355.com/product/concrete-clock-1355-master-model) at our website.
+
 The goal is to make it rigid enough to withstand the mass of polyurethane, smooth (non-porous) enough not to be adhered to polyurethane and leak-tight to avoid polyurethane penetration inside master model. 
 
-1.  [Order Concrete Clock 1355 master model.](http://www.concreteclock1355.com/make-concrete-clock-1355)
+1.  [3D-print Concrete Clock 1355 master model at Shapeways](https://www.shapeways.com/product/JNH4GTHWX/concrete-clock-1355-master-model) or [download](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/files/Concrete%20Clock%201355%20Table%20Clock.STL) it and 3D-print yourself.
 2.  Coat it with thin layer of primer.
 3.  Let it dry and make another thin layer. 
 4.  Using sand paper polish it in a water bath (underwater).
@@ -39,7 +41,11 @@ The goal is to make it rigid enough to withstand the mass of polyurethane, smoot
 7.  Fill the master-model with rice to avoid model deformation when pouring polyurethane. 
 8.  Seal the hole with any appropriate thin piece of plastic or any other non-porous smooth material. I used Cosmofen glue and silicon sealant to glue plastic to the master model.
 
+
+
 ## Make mold casing
+
+The polyurethane mold with mold casing is available [here](http://www.concreteclock1355.com/product/concrete-clock-1355-polyurethane-mold)
 
 <a href="https://www.dropbox.com/sh/gik4jokj4vv2u8s/AABO7yqLq1rfvVEWF-e8KmR3a?dl=0">
 <img alt="Make mold casing" src="http://i.imgur.com/pGpJQZm.png" /></a>
@@ -53,7 +59,7 @@ The goal is to make it rigid enough to withstand the mass of polyurethane, smoot
 - Personal protection (glasses, rubber gloves, long-sleeve shirt, respirator)
 - Wood glue
 
-### Make mold casing:to
+### Make mold casing:
 
 The goal is to make it leak-tight and strong enough to withstand water or polyurethane poured inside. Polyurethane mold consists of two parts: clock face side and mechanism side. In order to cast face part (which is cast first) you gonna need to lift the master model in mold casing to fill the space of the future mechanism side part (let's call it a stand). The M and F sides should close as precisely as possible to be able to prevent polyurethane leaking even with no sealing.
 
@@ -62,6 +68,8 @@ The goal is to make it leak-tight and strong enough to withstand water or polyur
 3.  Glue the parts together using the stand as a gauge.
 
 ## Cast polyurethane mold into mold casing
+
+The polyurethane mold with mold casing is available [here](http://www.concreteclock1355.com/product/concrete-clock-1355-polyurethane-mold)
 
 <a href="https://www.dropbox.com/sh/1g6jya262g96862/AAB0CFhpCJHdU3WO36zIALoGa?dl=0">
 <img alt="Cast polyurethane mold into mold casing" src="http://i.imgur.com/ZwdZfWi.png" /></a>
