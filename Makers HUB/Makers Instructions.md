@@ -1,7 +1,7 @@
 # Concrete Clock 1355. Makers HUB.
 
 <img alt="Concrete Clock 1355 Makers HUB" src="http://i.imgur.com/QtFQ6d6.jpg" />
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9D9GSXRX3Q39W)
+<div style="text-align:center">[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9D9GSXRX3Q39W)</div>
 
 ## Table of contents:
 
