@@ -15,6 +15,9 @@
 
 ## Prepare master model
 
+[![Concrete Clock 1355 master model](http://i.imgur.com/8zCyLTY.jpg)](http://www.concreteclock1355.com/product/concrete-clock-1355-master-model)
+You can skip this step by ordering [well prepared Concrete Clock 1355 master model](http://www.concreteclock1355.com/product/concrete-clock-1355-master-model) at our website.
+
 <a href="https://goo.gl/Rn8zDl">
 <img alt="Prepare master model" src="http://i.imgur.com/aX46tJa.png" /></a>
 
@@ -29,8 +32,6 @@
 - Personal protection (glasses, rubber gloves, long-sleeve shirt, respirator)
 
 ### Prepare master model
-
-You can skip this step by ordering [well prepared Concrete Clock 1355 master model](http://www.concreteclock1355.com/product/concrete-clock-1355-master-model) at our website.
 
 The goal is to make it rigid enough to withstand the mass of polyurethane, smooth (non-porous) enough not to be adhered to polyurethane and leak-tight to avoid polyurethane penetration inside master model. 
 
