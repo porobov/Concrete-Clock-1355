@@ -193,3 +193,5 @@ Need a technology to make a more durable stand (Make mold casing paragraph). The
 
 ---------------------
 [Buy Concrete Clock 1355](http://www.concreteclock1355.com/buy-concrete-clock-1355) | [Make Concrete Clock 1355](http://www.concreteclock1355.com/make-concrete-clock-1355) | [Paint Concrete Clock 1355](http://www.concreteclock1355.com/paint-concrete-clock-1355)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9D9GSXRX3Q39W)
