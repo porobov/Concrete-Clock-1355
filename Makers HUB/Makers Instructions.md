@@ -49,6 +49,8 @@ The goal is to make it rigid enough to withstand the mass of polyurethane, smoot
 
 ## Make mold casing
 
+[![Concrete Clock 1355 polyurethane mold with mold casing](http://i.imgur.com/qMwwzyn.jpg)](http://www.concreteclock1355.com/product/concrete-clock-1355-polyurethane-mold)
+
 The [polyurethane mold with mold casing](http://www.concreteclock1355.com/product/concrete-clock-1355-polyurethane-mold) is available at our website. 
 
 <a href="https://goo.gl/5Yhxln">
@@ -73,7 +75,9 @@ The goal is to make it leak-tight and strong enough to withstand water or polyur
 
 ## Cast polyurethane mold into mold casing
 
-The [polyurethane mold with mold casing](http://www.concreteclock1355.com/product/concrete-clock-1355-polyurethane-mold) is available at our website.
+[![Concrete Clock 1355 polyurethane mold with mold casing](http://i.imgur.com/qMwwzyn.jpg)](http://www.concreteclock1355.com/product/concrete-clock-1355-polyurethane-mold)
+
+The [polyurethane mold with mold casing](http://www.concreteclock1355.com/product/concrete-clock-1355-polyurethane-mold) is available at our website. 
 
 <a href="https://goo.gl/A5WN92">
 <img alt="Cast polyurethane mold into mold casing" src="http://i.imgur.com/ZwdZfWi.png" /></a>
