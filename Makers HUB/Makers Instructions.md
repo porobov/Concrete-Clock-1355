@@ -13,7 +13,7 @@
 
 ## Prepare master model
 
-<a href="https://www.dropbox.com/sh/11quyruv6xzmt2j/AAB3DeCSagDpUCqWJzzR7_hTa?dl=0">
+<a href="https://goo.gl/Rn8zDl">
 <img alt="Prepare master model" src="http://i.imgur.com/aX46tJa.png" /></a>
 
 ### Materials:
@@ -32,7 +32,7 @@ You can skip this step by ordering [well prepared Concrete Clock 1355 master mod
 
 The goal is to make it rigid enough to withstand the mass of polyurethane, smooth (non-porous) enough not to be adhered to polyurethane and leak-tight to avoid polyurethane penetration inside master model. 
 
-1.  [3D-print Concrete Clock 1355 master model at Shapeways](https://www.shapeways.com/product/JNH4GTHWX/concrete-clock-1355-master-model) or [download](https://github.com/porobov/Concrete-Clock-1355/blob/master/Makers%20HUB/files/Concrete%20Clock%201355%20Table%20Clock.STL) it and 3D-print yourself.
+1.  [3D-print Concrete Clock 1355 master model at Shapeways](https://www.shapeways.com/product/JNH4GTHWX/concrete-clock-1355-master-model) or [download](https://goo.gl/ICKVAU) it and 3D-print yourself.
 2.  Coat it with thin layer of primer.
 3.  Let it dry and make another thin layer. 
 4.  Using sand paper polish it in a water bath (underwater).
@@ -45,9 +45,9 @@ The goal is to make it rigid enough to withstand the mass of polyurethane, smoot
 
 ## Make mold casing
 
-The polyurethane mold with mold casing is available [here](http://www.concreteclock1355.com/product/concrete-clock-1355-polyurethane-mold)
+The [polyurethane mold with mold casing](http://www.concreteclock1355.com/product/concrete-clock-1355-polyurethane-mold) is available at our website. 
 
-<a href="https://www.dropbox.com/sh/gik4jokj4vv2u8s/AABO7yqLq1rfvVEWF-e8KmR3a?dl=0">
+<a href="https://goo.gl/5Yhxln">
 <img alt="Make mold casing" src="http://i.imgur.com/pGpJQZm.png" /></a>
 
 ### Mold casing materials:
@@ -69,9 +69,9 @@ The goal is to make it leak-tight and strong enough to withstand water or polyur
 
 ## Cast polyurethane mold into mold casing
 
-The polyurethane mold with mold casing is available [here](http://www.concreteclock1355.com/product/concrete-clock-1355-polyurethane-mold)
+The [polyurethane mold with mold casing](http://www.concreteclock1355.com/product/concrete-clock-1355-polyurethane-mold) is available at our website.
 
-<a href="https://www.dropbox.com/sh/1g6jya262g96862/AAB0CFhpCJHdU3WO36zIALoGa?dl=0">
+<a href="https://goo.gl/A5WN92">
 <img alt="Cast polyurethane mold into mold casing" src="http://i.imgur.com/ZwdZfWi.png" /></a>
 
 ### Polyurethane mold materials:
@@ -139,7 +139,7 @@ Polyurethane mold consists of two parts: clock face side and mechanism side (we 
 
 ### Pouring concrete
 
-<a href="https://www.dropbox.com/sh/41bw1zoszr1uk5v/AAD7a0Znf_0_bXcT14A0-3mFa?dl=0">
+<a href="https://goo.gl/exzVkN">
 <img alt="Pouring concrete and Assemble Concrete Clock 1355" src="http://i.imgur.com/muhD21p.png" /></a>
 
 Shake well, follow proportions thoroughly.
@@ -165,7 +165,7 @@ Shake well, follow proportions thoroughly.
 - Clock mechanism  - the drawing of the clock is [here](/Makers%20HUB/files).
 - Clock hands – the drawing of the clocks you may find [here](/Makers%20HUB/files).
 - Round nut – the drawing is [here](/Makers%20HUB/files)
-- Book board pad (isn't necessary) – the photo is [here](https://www.dropbox.com/sh/41bw1zoszr1uk5v/AAD7a0Znf_0_bXcT14A0-3mFa?dl=0)
+- Book board pad (isn't necessary) – the photo is [here](https://goo.gl/M0lVxF)
 - Round nut key (I use scissors instead)
 Clock mechanism, Clock hands and Round nut are available [here](http://www.concreteclock1355.com/make-concrete-clock-1355). 
 
